@@ -1,10 +1,6 @@
-# yandex-praktikum-projects
-Projects from YP course
+Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия -"Аналитик данных" 
 
-
-
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных" 
-
+**Сертификат** - [eng](https://github.com/SKechko/yandex-praktikum-projects/blob/main/cert_eng.pdf) | [rus](https://github.com/SKechko/yandex-praktikum-projects/blob/main/cert_rus.pdf)
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование надёжности заёмщиков](https://github.com/SKechko/yandex-praktikum-projects/tree/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2) |На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок| *pandas, numpy, pymystem3* |
